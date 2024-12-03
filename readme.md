@@ -15,7 +15,6 @@
 4. **הוספת מאקרו באקסל**
    - הוסיפו את התוכן הבא למאקרו באקסל:
      ```vba
-     
     Sub CallAPIForRow()
         Dim currentRow As Integer
         Dim userCode As String, password As String, bank As String
