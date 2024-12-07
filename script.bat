@@ -1,5 +1,5 @@
 @echo off
 echo Installing project dependencies...
-npm run start
+npm install -g pm2 && npm run start
 echo Application started successfully!
 pause
